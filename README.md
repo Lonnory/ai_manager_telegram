@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/30069550/README.md)
+
 # 🤖 AI Manager Bot (@ai_massage_manager_bot)
 
 [![Telegram Bot](https://img.shields.io/badge/Telegram-Bot-blue.svg?logo=telegram)](https://t.me/ai_massage_manager_bot)
